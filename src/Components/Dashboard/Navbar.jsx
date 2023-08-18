@@ -9,7 +9,7 @@ import rounded from '../../assets/rounded.svg'
 import bgtest from '../../assets/bgtest.png'
 import logo from '../../assets/logo.png'
 import advert from '../../assets/adver.png'
-import howitworks from '../../assets/howitworks.svg'
+
 import dash from '../../assets/dashSample.svg'
 import bg from '../../assets/phonebg.svg'
 import phone from '../../assets/phone.svg'
