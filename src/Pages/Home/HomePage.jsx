@@ -47,7 +47,7 @@ const Banner = () => {
       </div>
     </div>
     <div className="relative overflow-x-hidden overflow-y-visible ">
-      <div className="border-[20px] border-[#072B24] rounded-2xl absolute z-20 h-[70%] w-[90%] left-[30%] top-[15%] ">
+      <div className="border-[20px] border-[#11332c] rounded-2xl absolute z-20 h-[70%] w-[90%] left-[30%] top-[15%] ">
         <img src={dash} alt="" className='rounded-lg h-full w-full object-cover' />
       </div>
       <div className='w-[100%] h-[100%] rounded-full relative'>
